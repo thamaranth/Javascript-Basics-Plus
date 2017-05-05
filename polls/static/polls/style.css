@@ -1,0 +1,15 @@
+li a {
+    color: white;
+}
+
+h1 {
+  color:white;
+  text-shadow: -.5px 0 gold, 0 .5px gold, .5px 0 gold, 0 -.5px gold;
+}
+
+body {
+    color: white;
+    text-shadow: -.5px 0 black, 0 .5px black, .5px 0 black, 0 -.5px black;
+    background: white url("https://s-media-cache-ak0.pinimg.com/736x/be/c7/e1/bec7e1fb7a94cd1407d1d2d6795911da.jpg") repeat
+    ;
+}
